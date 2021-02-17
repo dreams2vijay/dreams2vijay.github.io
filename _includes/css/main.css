@@ -7,14 +7,20 @@
 img.logo-adobe {
     float: left;
     padding-right: 22px;
+width: 15%;
 }
 
-.page-scroll .logo-adobe {
+.navbar-shrink .logo-adobe {
     padding-top: 10px;
 }
 
 .bullet-skills {
     font-size: 20px;
+color:#ffffff;
+	
+}
+
+.bullet-skills a, .bullet-skills a:hover, .bullet-skills a:focus, .bullet-skills a:active, .bullet-skills a.active{
 color:#ffffff;
 	
 }
