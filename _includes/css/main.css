@@ -149,12 +149,6 @@ header .intro-text .skills {
     }
 }
 
-@media(min-width:767px) {
-.navbar-shrink .logo-adobe {
-    padding: 10px;
-}
-}
-
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
@@ -228,6 +222,14 @@ section.success {
     section.first {
         padding-top: 75px;
     }
+
+img.logo-adobe {
+    padding-right: 10px;
+}
+
+.navbar-shrink .logo-adobe {
+    padding: 10px;
+}
 }
 
 #portfolio .portfolio-item {
