@@ -6,12 +6,8 @@
 
 img.logo-adobe {
     float: left;
-    padding-right: 22px;
+    padding-right: 14px;
 width: 15%;
-}
-
-.navbar-shrink .logo-adobe {
-    padding-top: 10px;
 }
 
 .profile-img {
@@ -157,9 +153,6 @@ header .intro-text .skills {
         transition: padding .3s;
     }
 
-.navbar-shrink .logo-adobe {
-    padding: 12px;
-}
 
     .navbar-fixed-top .navbar-brand {
         font-size: 2em;
@@ -224,10 +217,6 @@ section.success {
     }
 
 img.logo-adobe {
-    padding: 10px;
-}
-
-.navbar-shrink .logo-adobe {
     padding: 10px;
 }
 }
