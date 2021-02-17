@@ -157,6 +157,10 @@ header .intro-text .skills {
         transition: padding .3s;
     }
 
+.navbar-shrink .logo-adobe {
+    padding: 12px;
+}
+
     .navbar-fixed-top .navbar-brand {
         font-size: 2em;
         -webkit-transition: all .3s;
