@@ -219,6 +219,10 @@ section.success {
         padding: 75px 0;
     }
 
+.navbar-shrink .logo-adobe {
+    padding: 10px;
+}
+
     section.first {
         padding-top: 75px;
     }
