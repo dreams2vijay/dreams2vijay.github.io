@@ -149,6 +149,12 @@ header .intro-text .skills {
     }
 }
 
+@media(min-width:767px) {
+.navbar-shrink .logo-adobe {
+    padding: 10px;
+}
+}
+
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
@@ -218,10 +224,6 @@ section.success {
     section {
         padding: 75px 0;
     }
-
-.navbar-shrink .logo-adobe {
-    padding: 10px;
-}
 
     section.first {
         padding-top: 75px;
